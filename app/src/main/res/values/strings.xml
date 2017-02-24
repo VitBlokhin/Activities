@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="stBtnSec">Second Activity</string>
+    <string name="stBtnThrd">Third Activity</string>
+    <string name="stBtnQuit">Quit</string>
+    <string name="stBkImgDescription">Background</string>
+    <string name="stBtnClose">Close</string>
+    <string name="stThirdTitle">Third Activity</string>
+    <string name="stSecondTitle">Second Activity</string>
+</resources>
